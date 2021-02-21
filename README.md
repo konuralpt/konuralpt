@@ -7,9 +7,10 @@
 
 - :office: &nbsp;I'm currently working at **[getir]**
 - :seedling: &nbsp;I’m currently learning **TypeScript**
+- :man_technologist: &nbsp;Improving ninja skills on **[Codewars]**
 - :speech_balloon: &nbsp;I like to talk about **Cartoons** and **Music**
 - :books: &nbsp; I regularly write articles on **[Medium]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :black_nib: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
@@ -26,3 +27,4 @@
 [getir]: https://getir.com "getir"
 [Medium]: https://konuralpt.medium.com "Konuralp Toksoy Medium"
 [linkedin]: https://www.linkedin.com/in/konuralp-toksoy "Konuralp Toksoy LinkedIn"
+[codewars]: https://www.codewars.com/users/konuralpt "Konuralp Toksoy Codewars"

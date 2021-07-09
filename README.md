@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=konuralpt&show_icons=true&count_private=true&include_all_commits=true" alt="konuralpt" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[getir]**
+- :office: &nbsp;I'm currently working at **[Good Job Games]**
 - :seedling: &nbsp;I’m currently learning **TypeScript**
 - :man_technologist: &nbsp;Improving ninja skills on **[Codewars]**
 - :speech_balloon: &nbsp;I like to talk about **Cartoons** and **Music**
@@ -24,7 +24,7 @@
 
 <!-- links -->
 
-[getir]: https://getir.com "getir"
+[Good Job Games]: https://goodjobgames.com "Good Job Games"
 [Medium]: https://konuralpt.medium.com "Konuralp Toksoy Medium"
 [linkedin]: https://www.linkedin.com/in/konuralp-toksoy "Konuralp Toksoy LinkedIn"
 [codewars]: https://www.codewars.com/users/konuralpt "Konuralp Toksoy Codewars"

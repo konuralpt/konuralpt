@@ -5,12 +5,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=konuralpt&theme=github_dark&show_icons=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=some%20stats&border_color=8c6c9e&title_color=fff&icon_color=ffc700&text_color=fff" alt="konuralpt" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[Good Job Games]**
-- :seedling: &nbsp;I’m currently learning **TypeScript**
-- :man_technologist: &nbsp;Improving ninja skills on **[Codewars]**
-- :speech_balloon: &nbsp;I like to talk about **Cartoons** and **Music**
-- :books: &nbsp; I regularly write articles on **[Medium]**
-- :black_nib: &nbsp;Connect with me on **[LinkedIn]**
+- &nbsp;I'm currently working at **[Good Job Games]**
+- &nbsp;I’m currently learning **TypeScript**
+- &nbsp;Improving ninja skills on **[Codewars]**
+- &nbsp;I like to talk about **Cartoons** and **Music**
+- &nbsp;I regularly write articles on **[Medium]**
+- &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 

@@ -2,7 +2,7 @@
 <h3 align="left">Front-End Developer @goodjobgames</h3>
 
 <a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=konuralpt&theme=github_dark&show_icons=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=some%20stats&border_color=e8b928" alt="konuralpt" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=konuralpt&theme=github_dark&show_icons=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=some%20stats&border_color=ffc700&title_color=fff&icon_color=8c6c9e" alt="konuralpt" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[Good Job Games]**

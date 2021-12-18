@@ -6,7 +6,6 @@
 </a>
 
 - &nbsp;I'm currently working at **[Good Job Games]**
-- &nbsp;I’m currently learning **TypeScript**
 - &nbsp;Improving ninja skills on **[Codewars]**
 - &nbsp;I like to talk about **Cartoons** and **Music**
 - &nbsp;I regularly write articles on **[Medium]**
